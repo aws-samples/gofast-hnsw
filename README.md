@@ -13,7 +13,7 @@ For customers that wish to deploy a Vector database on AWS, [Amazon OpenSearch](
 
 OpenSearch k-NN Search plugin:
 
-* https://opensearch.org/docs/1.0/search-plugins/knn/approximate-knn/
+* https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn/
 
 For more details on the memory requirements for large scale vector use-cases:
 

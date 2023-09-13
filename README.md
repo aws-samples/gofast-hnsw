@@ -15,6 +15,10 @@ OpenSearch k-NN Search plugin:
 
 * https://opensearch.org/docs/latest/search-plugins/knn/approximate-knn/
 
+Amazon OpenSearch Service’s vector database capabilities explained:
+
+* https://aws.amazon.com/blogs/big-data/amazon-opensearch-services-vector-database-capabilities-explained/
+
 For more details on the memory requirements for large scale vector use-cases:
 
 * https://aws.amazon.com/blogs/big-data/choose-the-k-nn-algorithm-for-your-billion-scale-use-case-with-opensearch/
